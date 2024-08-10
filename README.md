@@ -1,6 +1,6 @@
 # test_shop
 
-![Alt text](lib/screenshots/auth.jpg)
+<img src="lib/screenshots/screenshot1.png" alt="Screenshot 1" width="400"/>
 
 
 A new Flutter project.
