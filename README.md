@@ -1,6 +1,6 @@
 # test_shop
 
-<img src="lib/screenshots/auth.jpg" alt="Screenshot 1" width="400"/>
+<img src="lib/screenshots/auth.jpg" alt="Аутентификация" width="300"/> <img src="lib/screenshots/shop.jpg" alt="Магазин" width="200"/>
 
 
 A new Flutter project.
