@@ -1,19 +1,16 @@
-# test_shop
+# Проект TEST SHOP
 
-<img src="lib/screenshots/auth.jpg" alt="Аутентификация" width="300"/> <img src="lib/screenshots/shop.jpg" alt="Магазин" width="200"/>
+<img src="lib/screenshots/auth.jpg" alt="Аутентификация" width="200"/> <img src="lib/screenshots/shop.jpg" alt="Магазин" width="200"/>
+<img src="lib/screenshots/search.jpg" alt="Поиск" width="200"/> <img src="lib/screenshots/details.jpg" alt="Карточка товара" width="200"/>
+<img src="lib/screenshots/favorite.jpg" alt="Избранное" width="200"/> <img src="lib/screenshots/account.jpg" alt="Личный кабинет" width="200"/>
 
 
-A new Flutter project.
+## Тестовые учетные записи
 
-## Getting Started
+Никола Тесла:
+  login: tesla@mail.com
+  password: tesla10071856
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Томас Эдисон:
+  login: edison@mail.com
+  password: edison11021922
