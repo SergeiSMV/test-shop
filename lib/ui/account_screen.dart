@@ -6,6 +6,7 @@ import 'package:material_design_icons_flutter/material_design_icons_flutter.dart
 import 'package:test_shop/constants/text_styles.dart';
 
 import '../data/hive_implements/hive_implements.dart';
+import '../riverpod/bottom_nav_bar_provider.dart';
 
 
 class AccountScreen extends ConsumerStatefulWidget {
@@ -67,6 +68,7 @@ class _ShopScreenState extends ConsumerState<AccountScreen> {
               Expanded(
                 child: InkWell(
                   onTap: (){
+                    ref.read(visibleNavbarProvider.notifier).toogle();
                     GoRouter.of(context).go('/auth');
                   },
                   child: SizedBox(
