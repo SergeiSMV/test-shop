@@ -1,4 +1,4 @@
-# Проект TEST SHOP
+# Проект TEST SHOP [Скачать apk](lib/apk/test_shop.apk)
 
 <img src="lib/screenshots/auth.jpg" alt="Аутентификация" width="200"/> <img src="lib/screenshots/shop.jpg" alt="Магазин" width="200"/>
 <img src="lib/screenshots/search.jpg" alt="Поиск" width="200"/> <img src="lib/screenshots/details.jpg" alt="Карточка товара" width="200"/>
